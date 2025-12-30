@@ -1,0 +1,487 @@
+{
+  "status": "OPTIMAL",
+  "objective_value": 60.0,
+  "scheduled": [
+    {
+      "patient_id": "patient_17",
+      "doctor_id": "doctor_1",
+      "day": "Friday",
+      "start": "08:35",
+      "end": "08:50",
+      "duration_minutes": 15
+    },
+    {
+      "patient_id": "patient_44",
+      "doctor_id": "doctor_1",
+      "day": "Friday",
+      "start": "09:30",
+      "end": "10:30",
+      "duration_minutes": 60
+    },
+    {
+      "patient_id": "patient_24",
+      "doctor_id": "doctor_1",
+      "day": "Wednesday",
+      "start": "10:00",
+      "end": "10:45",
+      "duration_minutes": 45
+    },
+    {
+      "patient_id": "patient_45",
+      "doctor_id": "doctor_1",
+      "day": "Wednesday",
+      "start": "11:50",
+      "end": "12:50",
+      "duration_minutes": 60
+    },
+    {
+      "patient_id": "patient_50",
+      "doctor_id": "doctor_1",
+      "day": "Friday",
+      "start": "12:15",
+      "end": "13:30",
+      "duration_minutes": 75
+    },
+    {
+      "patient_id": "patient_8",
+      "doctor_id": "doctor_1",
+      "day": "Sunday",
+      "start": "16:30",
+      "end": "18:00",
+      "duration_minutes": 90
+    },
+    {
+      "patient_id": "patient_35",
+      "doctor_id": "doctor_2",
+      "day": "Friday",
+      "start": "09:30",
+      "end": "11:15",
+      "duration_minutes": 105
+    },
+    {
+      "patient_id": "patient_23",
+      "doctor_id": "doctor_2",
+      "day": "Wednesday",
+      "start": "10:20",
+      "end": "11:20",
+      "duration_minutes": 60
+    },
+    {
+      "patient_id": "patient_31",
+      "doctor_id": "doctor_2",
+      "day": "Saturday",
+      "start": "11:15",
+      "end": "11:45",
+      "duration_minutes": 30
+    },
+    {
+      "patient_id": "patient_9",
+      "doctor_id": "doctor_2",
+      "day": "Friday",
+      "start": "12:00",
+      "end": "12:15",
+      "duration_minutes": 15
+    },
+    {
+      "patient_id": "patient_47",
+      "doctor_id": "doctor_2",
+      "day": "Wednesday",
+      "start": "13:15",
+      "end": "14:00",
+      "duration_minutes": 45
+    },
+    {
+      "patient_id": "patient_32",
+      "doctor_id": "doctor_2",
+      "day": "Friday",
+      "start": "13:50",
+      "end": "15:35",
+      "duration_minutes": 105
+    },
+    {
+      "patient_id": "patient_7",
+      "doctor_id": "doctor_2",
+      "day": "Saturday",
+      "start": "14:15",
+      "end": "14:45",
+      "duration_minutes": 30
+    },
+    {
+      "patient_id": "patient_1",
+      "doctor_id": "doctor_2",
+      "day": "Tuesday",
+      "start": "15:00",
+      "end": "16:30",
+      "duration_minutes": 90
+    },
+    {
+      "patient_id": "patient_3",
+      "doctor_id": "doctor_2",
+      "day": "Monday",
+      "start": "15:05",
+      "end": "17:05",
+      "duration_minutes": 120
+    },
+    {
+      "patient_id": "patient_19",
+      "doctor_id": "doctor_2",
+      "day": "Saturday",
+      "start": "16:35",
+      "end": "17:05",
+      "duration_minutes": 30
+    },
+    {
+      "patient_id": "patient_14",
+      "doctor_id": "doctor_2",
+      "day": "Monday",
+      "start": "17:05",
+      "end": "17:20",
+      "duration_minutes": 15
+    },
+    {
+      "patient_id": "patient_54",
+      "doctor_id": "doctor_3",
+      "day": "Thursday",
+      "start": "09:25",
+      "end": "11:25",
+      "duration_minutes": 120
+    },
+    {
+      "patient_id": "patient_36",
+      "doctor_id": "doctor_3",
+      "day": "Tuesday",
+      "start": "09:30",
+      "end": "11:30",
+      "duration_minutes": 120
+    },
+    {
+      "patient_id": "patient_56",
+      "doctor_id": "doctor_3",
+      "day": "Monday",
+      "start": "12:35",
+      "end": "12:50",
+      "duration_minutes": 15
+    },
+    {
+      "patient_id": "patient_16",
+      "doctor_id": "doctor_3",
+      "day": "Sunday",
+      "start": "13:00",
+      "end": "13:30",
+      "duration_minutes": 30
+    },
+    {
+      "patient_id": "patient_29",
+      "doctor_id": "doctor_3",
+      "day": "Thursday",
+      "start": "13:35",
+      "end": "14:35",
+      "duration_minutes": 60
+    },
+    {
+      "patient_id": "patient_11",
+      "doctor_id": "doctor_3",
+      "day": "Wednesday",
+      "start": "13:45",
+      "end": "14:45",
+      "duration_minutes": 60
+    },
+    {
+      "patient_id": "patient_41",
+      "doctor_id": "doctor_3",
+      "day": "Saturday",
+      "start": "15:15",
+      "end": "16:45",
+      "duration_minutes": 90
+    },
+    {
+      "patient_id": "patient_51",
+      "doctor_id": "doctor_3",
+      "day": "Wednesday",
+      "start": "15:15",
+      "end": "17:15",
+      "duration_minutes": 120
+    },
+    {
+      "patient_id": "patient_20",
+      "doctor_id": "doctor_3",
+      "day": "Friday",
+      "start": "16:35",
+      "end": "17:35",
+      "duration_minutes": 60
+    },
+    {
+      "patient_id": "patient_21",
+      "doctor_id": "doctor_3",
+      "day": "Sunday",
+      "start": "16:45",
+      "end": "18:00",
+      "duration_minutes": 75
+    },
+    {
+      "patient_id": "patient_38",
+      "doctor_id": "doctor_3",
+      "day": "Wednesday",
+      "start": "17:30",
+      "end": "18:00",
+      "duration_minutes": 30
+    },
+    {
+      "patient_id": "patient_2",
+      "doctor_id": "doctor_4",
+      "day": "Sunday",
+      "start": "08:20",
+      "end": "10:20",
+      "duration_minutes": 120
+    },
+    {
+      "patient_id": "patient_18",
+      "doctor_id": "doctor_4",
+      "day": "Monday",
+      "start": "08:35",
+      "end": "10:05",
+      "duration_minutes": 90
+    },
+    {
+      "patient_id": "patient_53",
+      "doctor_id": "doctor_4",
+      "day": "Friday",
+      "start": "09:15",
+      "end": "09:45",
+      "duration_minutes": 30
+    },
+    {
+      "patient_id": "patient_27",
+      "doctor_id": "doctor_4",
+      "day": "Thursday",
+      "start": "10:05",
+      "end": "12:05",
+      "duration_minutes": 120
+    },
+    {
+      "patient_id": "patient_39",
+      "doctor_id": "doctor_4",
+      "day": "Wednesday",
+      "start": "10:55",
+      "end": "11:10",
+      "duration_minutes": 15
+    },
+    {
+      "patient_id": "patient_34",
+      "doctor_id": "doctor_4",
+      "day": "Wednesday",
+      "start": "12:00",
+      "end": "13:45",
+      "duration_minutes": 105
+    },
+    {
+      "patient_id": "patient_12",
+      "doctor_id": "doctor_4",
+      "day": "Thursday",
+      "start": "12:10",
+      "end": "12:25",
+      "duration_minutes": 15
+    },
+    {
+      "patient_id": "patient_13",
+      "doctor_id": "doctor_4",
+      "day": "Tuesday",
+      "start": "12:30",
+      "end": "13:00",
+      "duration_minutes": 30
+    },
+    {
+      "patient_id": "patient_15",
+      "doctor_id": "doctor_4",
+      "day": "Tuesday",
+      "start": "13:10",
+      "end": "14:10",
+      "duration_minutes": 60
+    },
+    {
+      "patient_id": "patient_6",
+      "doctor_id": "doctor_4",
+      "day": "Wednesday",
+      "start": "13:45",
+      "end": "14:45",
+      "duration_minutes": 60
+    },
+    {
+      "patient_id": "patient_10",
+      "doctor_id": "doctor_4",
+      "day": "Thursday",
+      "start": "13:50",
+      "end": "14:50",
+      "duration_minutes": 60
+    },
+    {
+      "patient_id": "patient_28",
+      "doctor_id": "doctor_4",
+      "day": "Sunday",
+      "start": "14:00",
+      "end": "15:45",
+      "duration_minutes": 105
+    },
+    {
+      "patient_id": "patient_52",
+      "doctor_id": "doctor_4",
+      "day": "Friday",
+      "start": "15:00",
+      "end": "16:00",
+      "duration_minutes": 60
+    },
+    {
+      "patient_id": "patient_22",
+      "doctor_id": "doctor_4",
+      "day": "Tuesday",
+      "start": "15:45",
+      "end": "17:45",
+      "duration_minutes": 120
+    },
+    {
+      "patient_id": "patient_57",
+      "doctor_id": "doctor_4",
+      "day": "Sunday",
+      "start": "15:45",
+      "end": "16:00",
+      "duration_minutes": 15
+    },
+    {
+      "patient_id": "patient_60",
+      "doctor_id": "doctor_4",
+      "day": "Friday",
+      "start": "16:20",
+      "end": "17:05",
+      "duration_minutes": 45
+    },
+    {
+      "patient_id": "patient_43",
+      "doctor_id": "doctor_4",
+      "day": "Wednesday",
+      "start": "16:55",
+      "end": "17:55",
+      "duration_minutes": 60
+    },
+    {
+      "patient_id": "patient_49",
+      "doctor_id": "doctor_4",
+      "day": "Thursday",
+      "start": "17:15",
+      "end": "18:00",
+      "duration_minutes": 45
+    },
+    {
+      "patient_id": "patient_46",
+      "doctor_id": "doctor_5",
+      "day": "Sunday",
+      "start": "09:00",
+      "end": "11:00",
+      "duration_minutes": 120
+    },
+    {
+      "patient_id": "patient_30",
+      "doctor_id": "doctor_5",
+      "day": "Saturday",
+      "start": "09:15",
+      "end": "09:45",
+      "duration_minutes": 30
+    },
+    {
+      "patient_id": "patient_40",
+      "doctor_id": "doctor_5",
+      "day": "Friday",
+      "start": "09:45",
+      "end": "11:30",
+      "duration_minutes": 105
+    },
+    {
+      "patient_id": "patient_26",
+      "doctor_id": "doctor_5",
+      "day": "Thursday",
+      "start": "10:40",
+      "end": "11:40",
+      "duration_minutes": 60
+    },
+    {
+      "patient_id": "patient_58",
+      "doctor_id": "doctor_5",
+      "day": "Saturday",
+      "start": "11:45",
+      "end": "12:15",
+      "duration_minutes": 30
+    },
+    {
+      "patient_id": "patient_37",
+      "doctor_id": "doctor_5",
+      "day": "Thursday",
+      "start": "12:15",
+      "end": "12:30",
+      "duration_minutes": 15
+    },
+    {
+      "patient_id": "patient_33",
+      "doctor_id": "doctor_5",
+      "day": "Monday",
+      "start": "12:20",
+      "end": "13:50",
+      "duration_minutes": 90
+    },
+    {
+      "patient_id": "patient_59",
+      "doctor_id": "doctor_5",
+      "day": "Sunday",
+      "start": "12:50",
+      "end": "13:50",
+      "duration_minutes": 60
+    },
+    {
+      "patient_id": "patient_4",
+      "doctor_id": "doctor_5",
+      "day": "Sunday",
+      "start": "13:50",
+      "end": "14:20",
+      "duration_minutes": 30
+    },
+    {
+      "patient_id": "patient_5",
+      "doctor_id": "doctor_5",
+      "day": "Monday",
+      "start": "14:45",
+      "end": "15:45",
+      "duration_minutes": 60
+    },
+    {
+      "patient_id": "patient_42",
+      "doctor_id": "doctor_5",
+      "day": "Friday",
+      "start": "15:45",
+      "end": "16:15",
+      "duration_minutes": 30
+    },
+    {
+      "patient_id": "patient_25",
+      "doctor_id": "doctor_5",
+      "day": "Wednesday",
+      "start": "16:00",
+      "end": "18:00",
+      "duration_minutes": 120
+    },
+    {
+      "patient_id": "patient_48",
+      "doctor_id": "doctor_5",
+      "day": "Sunday",
+      "start": "16:00",
+      "end": "17:45",
+      "duration_minutes": 105
+    },
+    {
+      "patient_id": "patient_55",
+      "doctor_id": "doctor_5",
+      "day": "Thursday",
+      "start": "16:15",
+      "end": "16:45",
+      "duration_minutes": 30
+    }
+  ],
+  "unscheduled": []
+}

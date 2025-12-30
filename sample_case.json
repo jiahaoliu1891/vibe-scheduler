@@ -1,0 +1,561 @@
+{
+  "meta": {
+    "seed": 42,
+    "generated_at": "2025-12-30T17:30:38",
+    "time_zone": "local"
+  },
+  "doctors": [
+    {
+      "id": "doctor_1",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "start": "10:00",
+          "end": "10:45"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:45",
+          "end": "13:00"
+        },
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:00"
+        },
+        {
+          "day": "Friday",
+          "start": "09:15",
+          "end": "10:30"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "14:00"
+        },
+        {
+          "day": "Sunday",
+          "start": "16:30",
+          "end": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "doctor_2",
+      "availability": [
+        {
+          "day": "Monday",
+          "start": "15:00",
+          "end": "17:45"
+        },
+        {
+          "day": "Tuesday",
+          "start": "08:00",
+          "end": "09:00"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:45",
+          "end": "16:30"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:15",
+          "end": "11:30"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:15",
+          "end": "14:00"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "11:15"
+        },
+        {
+          "day": "Friday",
+          "start": "12:00",
+          "end": "12:30"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "16:15"
+        },
+        {
+          "day": "Saturday",
+          "start": "11:00",
+          "end": "11:45"
+        },
+        {
+          "day": "Saturday",
+          "start": "14:00",
+          "end": "14:45"
+        },
+        {
+          "day": "Saturday",
+          "start": "16:30",
+          "end": "17:15"
+        }
+      ]
+    },
+    {
+      "id": "doctor_3",
+      "availability": [
+        {
+          "day": "Monday",
+          "start": "12:30",
+          "end": "13:15"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "11:30"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:45",
+          "end": "14:45"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:15",
+          "end": "18:00"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:00",
+          "end": "11:45"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:45"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:45"
+        },
+        {
+          "day": "Saturday",
+          "start": "15:15",
+          "end": "17:15"
+        },
+        {
+          "day": "Sunday",
+          "start": "13:00",
+          "end": "13:30"
+        },
+        {
+          "day": "Sunday",
+          "start": "16:45",
+          "end": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "doctor_4",
+      "availability": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "10:15"
+        },
+        {
+          "day": "Tuesday",
+          "start": "12:15",
+          "end": "13:00"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:00",
+          "end": "14:15"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:45",
+          "end": "17:45"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:15",
+          "end": "11:45"
+        },
+        {
+          "day": "Wednesday",
+          "start": "12:00",
+          "end": "14:45"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:45",
+          "end": "18:00"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:00",
+          "end": "12:30"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:45",
+          "end": "15:00"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:15",
+          "end": "18:00"
+        },
+        {
+          "day": "Friday",
+          "start": "09:15",
+          "end": "09:45"
+        },
+        {
+          "day": "Friday",
+          "start": "09:45",
+          "end": "10:45"
+        },
+        {
+          "day": "Friday",
+          "start": "14:45",
+          "end": "17:30"
+        },
+        {
+          "day": "Sunday",
+          "start": "08:00",
+          "end": "11:00"
+        },
+        {
+          "day": "Sunday",
+          "start": "13:15",
+          "end": "14:00"
+        },
+        {
+          "day": "Sunday",
+          "start": "14:00",
+          "end": "16:45"
+        }
+      ]
+    },
+    {
+      "id": "doctor_5",
+      "availability": [
+        {
+          "day": "Monday",
+          "start": "12:00",
+          "end": "14:30"
+        },
+        {
+          "day": "Monday",
+          "start": "14:45",
+          "end": "15:45"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:00",
+          "end": "16:45"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:00",
+          "end": "12:00"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:00",
+          "end": "18:00"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "13:00"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:15",
+          "end": "16:45"
+        },
+        {
+          "day": "Friday",
+          "start": "09:45",
+          "end": "11:30"
+        },
+        {
+          "day": "Friday",
+          "start": "15:45",
+          "end": "16:15"
+        },
+        {
+          "day": "Saturday",
+          "start": "09:15",
+          "end": "10:00"
+        },
+        {
+          "day": "Saturday",
+          "start": "11:45",
+          "end": "12:15"
+        },
+        {
+          "day": "Sunday",
+          "start": "09:00",
+          "end": "11:30"
+        },
+        {
+          "day": "Sunday",
+          "start": "12:45",
+          "end": "14:45"
+        },
+        {
+          "day": "Sunday",
+          "start": "15:30",
+          "end": "18:00"
+        }
+      ]
+    }
+  ],
+  "patients": [
+    {
+      "id": "patient_1",
+      "duration_minutes": 90
+    },
+    {
+      "id": "patient_2",
+      "duration_minutes": 120
+    },
+    {
+      "id": "patient_3",
+      "duration_minutes": 120
+    },
+    {
+      "id": "patient_4",
+      "duration_minutes": 30
+    },
+    {
+      "id": "patient_5",
+      "duration_minutes": 60
+    },
+    {
+      "id": "patient_6",
+      "duration_minutes": 60
+    },
+    {
+      "id": "patient_7",
+      "duration_minutes": 30
+    },
+    {
+      "id": "patient_8",
+      "duration_minutes": 90
+    },
+    {
+      "id": "patient_9",
+      "duration_minutes": 15
+    },
+    {
+      "id": "patient_10",
+      "duration_minutes": 60
+    },
+    {
+      "id": "patient_11",
+      "duration_minutes": 60
+    },
+    {
+      "id": "patient_12",
+      "duration_minutes": 15
+    },
+    {
+      "id": "patient_13",
+      "duration_minutes": 30
+    },
+    {
+      "id": "patient_14",
+      "duration_minutes": 15
+    },
+    {
+      "id": "patient_15",
+      "duration_minutes": 60
+    },
+    {
+      "id": "patient_16",
+      "duration_minutes": 30
+    },
+    {
+      "id": "patient_17",
+      "duration_minutes": 15
+    },
+    {
+      "id": "patient_18",
+      "duration_minutes": 90
+    },
+    {
+      "id": "patient_19",
+      "duration_minutes": 30
+    },
+    {
+      "id": "patient_20",
+      "duration_minutes": 60
+    },
+    {
+      "id": "patient_21",
+      "duration_minutes": 75
+    },
+    {
+      "id": "patient_22",
+      "duration_minutes": 120
+    },
+    {
+      "id": "patient_23",
+      "duration_minutes": 60
+    },
+    {
+      "id": "patient_24",
+      "duration_minutes": 45
+    },
+    {
+      "id": "patient_25",
+      "duration_minutes": 120
+    },
+    {
+      "id": "patient_26",
+      "duration_minutes": 60
+    },
+    {
+      "id": "patient_27",
+      "duration_minutes": 120
+    },
+    {
+      "id": "patient_28",
+      "duration_minutes": 105
+    },
+    {
+      "id": "patient_29",
+      "duration_minutes": 60
+    },
+    {
+      "id": "patient_30",
+      "duration_minutes": 30
+    },
+    {
+      "id": "patient_31",
+      "duration_minutes": 30
+    },
+    {
+      "id": "patient_32",
+      "duration_minutes": 105
+    },
+    {
+      "id": "patient_33",
+      "duration_minutes": 90
+    },
+    {
+      "id": "patient_34",
+      "duration_minutes": 105
+    },
+    {
+      "id": "patient_35",
+      "duration_minutes": 105
+    },
+    {
+      "id": "patient_36",
+      "duration_minutes": 120
+    },
+    {
+      "id": "patient_37",
+      "duration_minutes": 15
+    },
+    {
+      "id": "patient_38",
+      "duration_minutes": 30
+    },
+    {
+      "id": "patient_39",
+      "duration_minutes": 15
+    },
+    {
+      "id": "patient_40",
+      "duration_minutes": 105
+    },
+    {
+      "id": "patient_41",
+      "duration_minutes": 90
+    },
+    {
+      "id": "patient_42",
+      "duration_minutes": 30
+    },
+    {
+      "id": "patient_43",
+      "duration_minutes": 60
+    },
+    {
+      "id": "patient_44",
+      "duration_minutes": 60
+    },
+    {
+      "id": "patient_45",
+      "duration_minutes": 60
+    },
+    {
+      "id": "patient_46",
+      "duration_minutes": 120
+    },
+    {
+      "id": "patient_47",
+      "duration_minutes": 45
+    },
+    {
+      "id": "patient_48",
+      "duration_minutes": 105
+    },
+    {
+      "id": "patient_49",
+      "duration_minutes": 45
+    },
+    {
+      "id": "patient_50",
+      "duration_minutes": 75
+    },
+    {
+      "id": "patient_51",
+      "duration_minutes": 120
+    },
+    {
+      "id": "patient_52",
+      "duration_minutes": 60
+    },
+    {
+      "id": "patient_53",
+      "duration_minutes": 30
+    },
+    {
+      "id": "patient_54",
+      "duration_minutes": 120
+    },
+    {
+      "id": "patient_55",
+      "duration_minutes": 30
+    },
+    {
+      "id": "patient_56",
+      "duration_minutes": 15
+    },
+    {
+      "id": "patient_57",
+      "duration_minutes": 15
+    },
+    {
+      "id": "patient_58",
+      "duration_minutes": 30
+    },
+    {
+      "id": "patient_59",
+      "duration_minutes": 60
+    },
+    {
+      "id": "patient_60",
+      "duration_minutes": 45
+    }
+  ]
+}
