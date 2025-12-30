@@ -3,7 +3,7 @@
 OR-Tools CP-SAT scheduler for doctor–patient visits.
 
 Usage:
-  python src/scheduler.py --input sample_case.json --step 5 --output solution.json --time_limit 120
+  python src/scheduler.py --input sample_case.json --step 5 --output solution.json --time_limit 180
 """
 
 from __future__ import annotations
